@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 updated one --------- this is git
+=======
+this is git change 
+>>>>>>> 6861a5b32f55bd3b0d77cc63fcc1778483a49328
